@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.AssemblyInfo.cs
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Какулятар\Какулятар\bin\Debug\net6.0\Какулятар.exe
+C:\Users\1\source\repos\Какулятар\Какулятар\bin\Debug\net6.0\Какулятар.deps.json
+C:\Users\1\source\repos\Какулятар\Какулятар\bin\Debug\net6.0\Какулятар.runtimeconfig.json
+C:\Users\1\source\repos\Какулятар\Какулятар\bin\Debug\net6.0\Какулятар.dll
+C:\Users\1\source\repos\Какулятар\Какулятар\bin\Debug\net6.0\Какулятар.pdb
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.dll
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\refint\Какулятар.dll
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.pdb
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\Какулятар.genruntimeconfig.cache
+C:\Users\1\source\repos\Какулятар\Какулятар\obj\Debug\net6.0\ref\Какулятар.dll
